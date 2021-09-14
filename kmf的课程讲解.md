@@ -22,19 +22,64 @@
 
 
 
+9月14日
+
+每天至少200个新单词
+
+句子: 找主干 SVO,  明确修饰语修饰对象. 
+
+比如 in xxx 时间状语地点状语可以去掉不看.
 
 
 
+### issue
+
+ 30分钟内完成议论文,  陈述自己的观点,  字数 >500字, 1.2-1.5屏
 
 
 
+国家不应该要求所有学生学的一样
+
+1. 无法满足不同学生的学习需求
+2. 会扼杀学生的创造力
+3. 破坏社会民主
+4. 社会不公平
+
+### argument
+
+ ,  分析论证的漏洞
+
+4-6个漏洞
+
+字数不低于550, 找出了所有论证漏洞, 并且深入讨论, 严密论述, 有逻辑地组织内容.
 
 
 
+原文论证是如何基于这些假设之上?  如果这些假设被证明是无依据的, 对原文有什么影响? 
 
+假设了: 
 
+1. 调查结果是可靠的预算依据
+2. 人们没有使用的唯一原因是河水质量和臭味
+3. 政府宣布清理一定能够成功
 
+那么在第一段我们首先要做的一件事就是概括这个 argument。 
 
+According to the director,  xx
+
+The director argues that
+
+也可以具体一点, 写出来 the friend of the homeowner
+
+对于assumption的模板:
+
+According to the friend of the homeowner, Adams is a better real estate firm and should be used in order to sell the home fast and get a good deal because it has more full-time agents, better home sales records. To assess this argument, we need to examine critically **a number of assumptions** about the workforce size and full-time or part-time mode, the average prices and the time required to sell a home.
+
+如果是evidence 就需要这么写: 
+
+Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument.
+
+In order to evaluate the recommendation, we need more information about the enrollment trend of Buckingham College, the exact rents of the off-campus housing, students’ financial background and how prospective students make their choices.
 
 
 
